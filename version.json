@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "4.7.3",
-  "apkUrl": "https://github.com/Tkemaway/zhijian-updates/releases/download/v4.7.3/zhijian-v4.7.3.apk",
-  "notes": "下载体验重做：纸胶囊+圆环进度；详情页章数/离线大小；书架已离线标记；目录逐章离线点+下载剩余",
-  "sha256": "C918B7571DD253A79B9F2683CA7E239E8884BE58FEFAC39657676D94609EDFC6",
-  "size": 34700603,
-  "publishedAt": "2026-10-28T21:06:00+08:00"
+  "versionCode": 22,
+  "versionName": "4.7.4",
+  "apkUrl": "https://github.com/Tkemaway/zhijian-updates/releases/download/v4.7.4/zhijian-v4.7.4.apk",
+  "notes": "新应用图标；下载体验重做；修复删组卡死/下载提示",
+  "sha256": "C9955F542F3AC0AAB9642995648C89C99576A0BC1BB95C9EA8A07AA8DFF6B3D2",
+  "size": 34743983,
+  "publishedAt": "2026-10-28T22:16:00+08:00"
 }
